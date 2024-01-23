@@ -1,0 +1,14 @@
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\FavGame\FavGame\bin\Debug\FavGame.exe.config
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\FavGame\FavGame\bin\Debug\FavGame.exe
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\FavGame\FavGame\bin\Debug\FavGame.dll
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\FavGame\FavGame\bin\Debug\IronPython.dll
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\FavGame\FavGame\bin\Debug\IronPython.Modules.dll
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\FavGame\FavGame\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\FavGame\FavGame\bin\Debug\Microsoft.Scripting.dll
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\FavGame\FavGame\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\FavGame\FavGame\bin\Debug\IronPython.xml
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\FavGame\FavGame\bin\Debug\IronPython.Modules.xml
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\FavGame\FavGame\obj\x86\Debug\FavGame.pyprojResolveAssemblyReference.cache
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\FavGame\FavGame\obj\x86\Debug\FavGame.MainForm.resources
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\FavGame\FavGame\obj\x86\Debug\FavGame.pyproj.GenerateResource.Cache
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\FavGame\FavGame\obj\x86\Debug\FavGame.exe
