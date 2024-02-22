@@ -1,0 +1,12 @@
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\pg435\pg435\bin\Debug\pg435.exe.config
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\pg435\pg435\bin\Debug\pg435.exe
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\pg435\pg435\bin\Debug\pg435.dll
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\pg435\pg435\bin\Debug\IronPython.dll
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\pg435\pg435\bin\Debug\IronPython.Modules.dll
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\pg435\pg435\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\pg435\pg435\bin\Debug\Microsoft.Scripting.dll
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\pg435\pg435\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\pg435\pg435\bin\Debug\IronPython.xml
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\pg435\pg435\bin\Debug\IronPython.Modules.xml
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\pg435\pg435\obj\x86\Debug\pg435.pyprojResolveAssemblyReference.cache
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\pg435\pg435\obj\x86\Debug\pg435.exe
