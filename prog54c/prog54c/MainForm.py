@@ -14,7 +14,6 @@ class MainForm(Form):
 		self._button3 = System.Windows.Forms.Button()
 		self._textBox1 = System.Windows.Forms.TextBox()
 		self._label1 = System.Windows.Forms.Label()
-		self._webBrowser1 = System.Windows.Forms.WebBrowser()
 		self.SuspendLayout()
 		# 
 		# button1
@@ -62,18 +61,9 @@ class MainForm(Form):
 		self._label1.TabIndex = 4
 		self._label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
 		# 
-		# webBrowser1
-		# 
-		self._webBrowser1.Location = System.Drawing.Point(79, 118)
-		self._webBrowser1.MinimumSize = System.Drawing.Size(20, 20)
-		self._webBrowser1.Name = "webBrowser1"
-		self._webBrowser1.Size = System.Drawing.Size(250, 250)
-		self._webBrowser1.TabIndex = 5
-		# 
 		# MainForm
 		# 
-		self.ClientSize = System.Drawing.Size(393, 371)
-		self.Controls.Add(self._webBrowser1)
+		self.ClientSize = System.Drawing.Size(263, 115)
 		self.Controls.Add(self._label1)
 		self.Controls.Add(self._textBox1)
 		self.Controls.Add(self._button3)
