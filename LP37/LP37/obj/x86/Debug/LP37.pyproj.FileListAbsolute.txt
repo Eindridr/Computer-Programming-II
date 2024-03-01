@@ -1,0 +1,14 @@
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\LP37\LP37\obj\x86\Debug\LP37.pyprojResolveAssemblyReference.cache
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\LP37\LP37\obj\x86\Debug\LP37.MainForm.resources
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\LP37\LP37\obj\x86\Debug\LP37.pyproj.GenerateResource.Cache
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\LP37\LP37\bin\Debug\LP37.exe.config
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\LP37\LP37\bin\Debug\LP37.exe
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\LP37\LP37\bin\Debug\LP37.dll
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\LP37\LP37\bin\Debug\IronPython.dll
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\LP37\LP37\bin\Debug\IronPython.Modules.dll
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\LP37\LP37\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\LP37\LP37\bin\Debug\Microsoft.Scripting.dll
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\LP37\LP37\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\LP37\LP37\bin\Debug\IronPython.xml
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\LP37\LP37\bin\Debug\IronPython.Modules.xml
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\LP37\LP37\obj\x86\Debug\LP37.exe
