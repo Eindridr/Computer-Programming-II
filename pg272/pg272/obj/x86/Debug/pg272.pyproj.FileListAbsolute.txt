@@ -1,0 +1,14 @@
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\pg272\pg272\bin\Debug\pg272.exe.config
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\pg272\pg272\bin\Debug\pg272.exe
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\pg272\pg272\bin\Debug\pg272.dll
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\pg272\pg272\bin\Debug\IronPython.dll
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\pg272\pg272\bin\Debug\IronPython.Modules.dll
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\pg272\pg272\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\pg272\pg272\bin\Debug\Microsoft.Scripting.dll
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\pg272\pg272\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\pg272\pg272\bin\Debug\IronPython.xml
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\pg272\pg272\bin\Debug\IronPython.Modules.xml
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\pg272\pg272\obj\x86\Debug\pg272.pyprojResolveAssemblyReference.cache
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\pg272\pg272\obj\x86\Debug\pg272.MainForm.resources
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\pg272\pg272\obj\x86\Debug\pg272.pyproj.GenerateResource.Cache
+C:\Users\gilberts.w\Desktop\Computer-Programming-II\pg272\pg272\obj\x86\Debug\pg272.exe
