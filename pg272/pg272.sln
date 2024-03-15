@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.2.1.8805
+Project("{FD48973F-F585-4F70-812B-4D0503B36CE9}") = "pg272", "pg272\pg272.pyproj", "{9C06E170-ACC4-472D-BB0A-12E95F865CEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C06E170-ACC4-472D-BB0A-12E95F865CEF}.Debug|x86.Build.0 = Debug|x86
+		{9C06E170-ACC4-472D-BB0A-12E95F865CEF}.Debug|x86.ActiveCfg = Debug|x86
+		{9C06E170-ACC4-472D-BB0A-12E95F865CEF}.Release|x86.Build.0 = Release|x86
+		{9C06E170-ACC4-472D-BB0A-12E95F865CEF}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+EndGlobal
